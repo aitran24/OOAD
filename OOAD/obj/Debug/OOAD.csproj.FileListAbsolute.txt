@@ -1,0 +1,14 @@
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.csproj.AssemblyReference.cache
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.View.LoginForm.resources
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.Properties.Resources.resources
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.csproj.GenerateResource.cache
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.csproj.CoreCompileInputs.cache
+E:\ki4\ptgttk\OOAD\bin\Debug\OOAD.exe.config
+E:\ki4\ptgttk\OOAD\bin\Debug\OOAD.exe
+E:\ki4\ptgttk\OOAD\bin\Debug\OOAD.pdb
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.exe
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.pdb
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.View.MainForm.resources
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.View.UserControl1.resources
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.View.UserControl2.resources
+E:\ki4\ptgttk\OOAD\obj\Debug\OOAD.View.FormSetAppointment.resources
